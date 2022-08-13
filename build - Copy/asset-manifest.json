@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_frontend/static/css/main.1a81e849.css",
+    "main.js": "/React_frontend/static/js/main.affadeb8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React_frontend/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img1.png": "/React_frontend/static/media/img1.360cc7430f5dfa59f0d0.png",
+    "static/media/postpic2.jpg": "/React_frontend/static/media/postpic2.95c476d936d3c3229c92.jpg",
+    "static/media/postpic1.jpg": "/React_frontend/static/media/postpic1.e233abd42b7cd3b2d01a.jpg",
+    "static/media/postpic3.jpg": "/React_frontend/static/media/postpic3.c48fc9ae5596f6310601.jpg",
+    "static/media/profileImg.jpg": "/React_frontend/static/media/profileImg.e857f45860a47d11abdd.jpg",
+    "static/media/img2.png": "/React_frontend/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/React_frontend/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/React_frontend/index.html",
+    "main.1a81e849.css.map": "/React_frontend/static/css/main.1a81e849.css.map",
+    "main.affadeb8.js.map": "/React_frontend/static/js/main.affadeb8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React_frontend/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a81e849.css",
+    "static/js/main.affadeb8.js"
+  ]
+}
